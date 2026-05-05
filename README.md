@@ -35,7 +35,7 @@ const kunal = {
   name      : "Kunal Chauhan",
   alias     : "Kunal_©oder",
   location  : "India 🇮🇳",
-  org       : "Dream Coders01 🚀",
+  org       : "PRAXIS", "Dream Coders01 🚀",
 
   whatIdo   : [
     "⚙️  Automation workflows with n8n",
