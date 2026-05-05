@@ -35,7 +35,7 @@ const kunal = {
   name     : "Kunal Chauhan",
   alias    : "Kunal_©oder",
   location : "India 🇮🇳",
-  org      : "Dream Coders01 🚀",
+  org      : "PRAXIS 💙", "Dream Coders01 🚀",
 
   passion  : ["Intelligent Engineering", "Creative UI/UX", "Hackathons"],
   learning : ["Full Stack Web Dev", "TypeScript", "System Design"],
